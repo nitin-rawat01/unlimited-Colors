@@ -3,19 +3,26 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Change Background Color</title>
-    <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="../styles.css" />
-  </head>
-  <body style="background-color: #212121; color: #fff">
-    <nav>
-      <a href="/" aria-current="page">Home</a>
-      <a target="_blank" href="https://www.youtube.com/@chaiaurcode"
-        >Youtube channel</a
-      >
-    </nav>
+    <style>
+        body{
+            background-color: #212121;
+            color: #fff;
+        }
+        h1{
+            font-size: 3rem;
+        }
+        button{
+            font-size: 1.5rem;
+            font-family: sans-serif;
+            padding: 5px;
+            border-radius: 5px;
+            margin: 0 20px;
+        }
 
+    </style>
+  </head>
+  <body>
     <h1>Start should change the Background color every second</h1>
     <button id="start">Start</button>
     <button id="stop">Stop</button>
