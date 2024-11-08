@@ -17,6 +17,11 @@
 
 ## *WEBSITE DEMO*
 
+![screenshot_1](https://github.com/user-attachments/assets/69368151-664e-4257-bf20-70b340915299)
+
+![screenshot_2](https://github.com/user-attachments/assets/bed20ae3-513a-43f6-9792-e60a14cbd2f7)
+
+
 
 ## Contact
 
